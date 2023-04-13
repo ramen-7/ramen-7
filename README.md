@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramen-7" alt="ramen-7" /></a> </p>
 
-- 🔭 I’m currently working on **Face Emotion Detector**
+- 🔭 I’m currently working on **Advanced CCTV Surveilance**
 
 - 🌱 I’m currently learning **node.js, react.js, mongoDB, express.js**
 
